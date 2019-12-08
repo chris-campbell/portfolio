@@ -1,0 +1,8 @@
+.title {
+    font-size: 12px;
+}
+
+.resume-list .resume-list__block p {
+    margin: 0;
+    font-size: 16px;
+}
