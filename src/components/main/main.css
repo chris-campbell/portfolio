@@ -2,6 +2,12 @@
     font-size: 19px;
 }
 
+.menu {
+    height: 50px;
+    background: #2f2f2f;
+    padding-top: 40px;
+}
+
 .main-menu {
     background: #2f2f2f;
 }
